@@ -1,0 +1,8 @@
+name: DSCI522_ASSIGN_2
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - yfinance=0.2.57
+  - dtale=3.18.2
+  - conda-lock
